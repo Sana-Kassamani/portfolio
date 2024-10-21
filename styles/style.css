@@ -2,9 +2,11 @@ body {
   background-color: rgb(1, 36, 71);
   color: rgb(232, 229, 229);
   font-family: "Courier New", Courier, monospace;
+  margin: 0;
 }
 nav {
-  margin: 10px;
+  padding: 15px;
+  background-color: rgba(206, 212, 219, 0.1);
 }
 a {
   text-decoration: none;
@@ -52,14 +54,13 @@ img {
 
 footer {
   text-align: center;
-  margin: 20px;
+  margin: 10px;
 }
 
 ul {
   padding: 20px;
   margin: 20px;
   list-style-type: none;
-  background-color: rgba(12, 125, 239, 0.1);
 }
 li {
   padding: 30px;
