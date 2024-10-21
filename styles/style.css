@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(1, 36, 71);
+  color: rgb(232, 229, 229);
+  font-family: "Courier New", Courier, monospace;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.left {
+  display: inline-block;
+  width: 40%;
+  padding: 50px 0;
+  vertical-align: middle;
+}
+.right {
+  display: inline-block;
+  width: 50%;
+  vertical-align: middle;
+}
+.about {
+  margin: auto;
+  width: 90%;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
